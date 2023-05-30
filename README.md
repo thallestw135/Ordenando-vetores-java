@@ -25,3 +25,5 @@ Lista => -5,-5, -3, 0, 4, 8, 9, 17
 Lista => -5, -5, -3, 0, 4, 8, 9, 11, 17
 
 Posteriormente remova todos os números primos da lista e faça a impressão novamente da lista.
+
+## Link do video explicando o código: https://drive.google.com/file/d/1AkxIctkgxb0fz9DBsEFXLKgmbL01ZXss/view?usp=share_link
